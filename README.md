@@ -38,6 +38,7 @@ Output:
 <summary><h4> 4- RockPaperScissors </h4></summary> 
 In this project, the player choices the option among rock, paper and scissors. After that computer select. The winner is decided as per the rules.
 Rules;
+ 
 * Rock beats scissors
 * Scissors beats paper
 * Paper beats rock
@@ -47,4 +48,4 @@ You can find the codes [here.](https://github.com/ececsk/womenintech_akademi_ode
 Output:
 
 <img src="https://github.com/ececsk/womenintech_akademi_odev/blob/25b05f4638bb282b5f83b4ab7b5420327b33ed08/4-RockPaperScissors/RockPaperScissors.PNG" width="auto">
-<details>
+</details>
