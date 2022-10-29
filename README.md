@@ -49,3 +49,67 @@ Output:
 
 <img src="https://github.com/ececsk/womenintech_akademi_odev/blob/25b05f4638bb282b5f83b4ab7b5420327b33ed08/4-RockPaperScissors/RockPaperScissors.PNG" width="auto">
 </details>
+
+<details>
+<summary><h4> 5- FindDeletedElements</h4></summary>
+Let's say you have a list of numbers from 0 to 100 in mixed order. There are n numbers missing from this list. Let's find the value of n and the missing numbers.
+
+You can find the codes [here.](https://github.com/ececsk/womenintech_akademi_odev/blob/main/5-FindDeletedElements/FindDeletedElements.py)
+ 
+Output:
+
+<img src="https://github.com/ececsk/womenintech_akademi_odev/blob/main/5-FindDeletedElements/FindDeletedElements.PNG" width="auto">
+</details>
+
+<details>
+<summary><h4> 6- Find_Missing_ Number </h4></summary>
+Let's say we have a list of numbers from 0 to 100 in mixed order. 1 number is missing from this list. Let's find the missing number.
+
+You can find the codes [here.](https://github.com/ececsk/womenintech_akademi_odev/blob/main/6-FindMissingNumber/FindMissingNumber.py)
+ 
+Output:
+
+<img src="https://github.com/ececsk/womenintech_akademi_odev/blob/main/6-FindMissingNumber/FindMissingNumber.PNG" width="auto">
+</details>
+<details>
+
+<summary><h4> 7- SortingAlgorithms_List</h4></summary>
+Sort the given list using sorting algorithms.
+
+You can find the codes [here.](https://github.com/ececsk/womenintech_akademi_odev/blob/main/7-SortingAlgorithms_List/SortingAlgorithmsList.py)
+ 
+Output:
+
+<img src="https://github.com/ececsk/womenintech_akademi_odev/blob/main/7-SortingAlgorithms_List/SortingAlgorithmsList.PNG" width="auto">
+</details>
+
+<details>
+<summary><h4> 8- Find_Indexes_with_atotalof_Target</h4></summary>
+The function should take an integer array of nums and a target target variable and return indexes whose sum is target.
+
+Rules: We cannot use the value in the same index twice.
+
+ Example-1 :
+Parameters: nums = [2,7,11,15], target = 9
+Return Value: [0,1]
+Explanation: Since the values in nums[0] and nums[1] add up to 9, our output is [0, 1].
+
+ Example-2:
+Parameters: nums = [3,2,4], target = 6
+Return Value: [1,2]
+Explanation: Since the values in nums[1] and nums[2] add up to 6, our output is [1, 2].
+Note: [0,0] cannot be accepted as output here. Because we were told that we cannot use the same index.
+
+ Example-3:
+Parameters: nums = [3,2,4,1,3], target = 7
+Return Value: [2,4]
+Explanation: Since the values in nums[2] and nums[4] add up to 7, our output is [2, 4].
+
+You can find the codes [here.](https://github.com/ececsk/womenintech_akademi_odev/blob/main/8-FindIndexeswithatotalofTarget/FindIndexes_totalofTarget.py)
+ 
+Output:
+
+<img src="https://github.com/ececsk/womenintech_akademi_odev/blob/main/8-FindIndexeswithatotalofTarget/FindIndexes_totalofTarget.PNG" width="auto">
+</details>
+
+
