@@ -107,7 +107,8 @@ Explanation: Since the values in nums[2] and nums[4] add up to 7, our output is 
 
 You can find the codes [here.](https://github.com/ececsk/womenintech_akademi_odev/blob/main/8-FindIndexeswithatotalofTarget/FindIndexes_totalofTarget.py)
  
-Output:
+Output: 
+Let my_list = [5,9,7,2,4,1] and target=6
 
 <img src="https://github.com/ececsk/womenintech_akademi_odev/blob/main/8-FindIndexeswithatotalofTarget/FindIndexes_totalofTarget.PNG" width="auto">
 </details>
