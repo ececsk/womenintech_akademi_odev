@@ -52,7 +52,7 @@ Output:
 
 <details>
 <summary><h4> 5- FindDeletedElements</h4></summary>
-Let's say you have a list of numbers from 0 to 100 in mixed order. There are n numbers missing from this list. Let's find the value of n and the missing numbers.
+Let's say you have a list of numbers from 0 to 20 in mixed order. There are n numbers missing from this list. Let's find the value of n and the missing numbers.
 
 You can find the codes [here.](https://github.com/ececsk/womenintech_akademi_odev/blob/main/5-FindDeletedElements/FindDeletedElements.py)
  
