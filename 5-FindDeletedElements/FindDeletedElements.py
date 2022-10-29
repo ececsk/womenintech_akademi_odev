@@ -4,7 +4,7 @@ import random
 my_list = [i for i in range(0, 21)]
 random.shuffle(my_list)
 
-#solution_1 to remove 6 random elements
+#solution_1
 remove_list = random.sample(my_list, 6)
 
 #print("Our List: ",my_list)
@@ -13,7 +13,7 @@ remove_list = random.sample(my_list, 6)
 for i in remove_list:
     my_list.remove(i)
 
-#solution_2 to del 6 random elements
+#solution_2
 #del my_list[0:6]
 
 #my_list.sort(reverse = False)
