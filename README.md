@@ -113,4 +113,20 @@ Let my_list = [5,9,7,2,4,1] and target=6
 <img src="https://github.com/ececsk/womenintech_akademi_odev/blob/main/8-FindIndexeswithatotalofTarget/FindIndexes_totalofTarget.PNG" width="auto">
 </details>
 
+<details>
+
+<summary><h4> 9- File_Operations </h4></summary>
+The text file should be processed according to the following items and brought to the desired format.
+
+Operations to be performed on the "all_data.txt" file, which consists of irregular and duplicate data;
+* All text should be converted to lowercase.
+* Turkish characters should be replaced.
+* Punctuation marks should be removed.
+* If a line consists entirely of numbers, that line should not be added to the new file.
+* Lines should be arranged so that there is one sentence per line.
+* The text file should not contain duplicate data.
+
+
+You can find the codes [here.](https://github.com/ececsk/womenintech_akademi_odev/blob/main/9-File_Operations/File_Operations.ipynb)
+
 
