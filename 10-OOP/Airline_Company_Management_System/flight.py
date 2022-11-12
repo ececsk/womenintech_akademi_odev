@@ -7,8 +7,7 @@
 # Her uçuşun bir pilotu ve yardımcı pilotu vardır ve uçağı kullanırlar.
 # Havaalanlarının benzersiz kimlikleri ve isimleri vardır.
 # Hava yolu şirketlerinin pilotları vardır ve her pilotun bir deneyim seviyesi mevcuttur.
-# Bir uçak tipi, belirli sayıda pilota ihtiyaç duyabilir.
-# Bu sistemi tasvir eden Class(Sınıf) diyagramını çiziniz.
+# Bir uçak tipi, belirli sayıda pilota ihtiyaç duyabilir. 
 
 class AirlineCompany:
     def __init__(self,company_name ,numof_aircraft,numof_pilots):
