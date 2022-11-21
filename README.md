@@ -127,6 +127,6 @@ Operations to be performed on the "all_data.txt" file, which consists of irregul
 * The text file should not contain duplicate data.
 
 
-You can find the codes [here.](https://github.com/ececsk/womenintech_akademi_odev/blob/main/9-File_Operations/File_Operations.ipynb)
+You can find the codes [here.]([https://github.com/ececsk/womenintech_akademi_odev/blob/main/9-File_Operations/File_Operations.ipynb](https://github.com/ececsk/womenintech_akademi_odev/blob/main/9-File_Operations/file_op_solution.py))
 
 
